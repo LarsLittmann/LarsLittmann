@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LarsLittmann
 - 👀 I’m interested in conservation genomics
-- 🌱 I’m currently learning handling pool sequence data
-- 💞️ I’m looking to collaborate on anything that has to do with pipeline construction for wgs
+- 🌱 I’m currently learning about historical genomic data
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... yea for now you sort of don't. I might add an email address here later. 
 
 <!---
